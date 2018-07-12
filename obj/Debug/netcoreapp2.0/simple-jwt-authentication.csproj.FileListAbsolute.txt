@@ -1,0 +1,11 @@
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/bin/Debug/netcoreapp2.0/simple-jwt-authentication.deps.json
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/bin/Debug/netcoreapp2.0/simple-jwt-authentication.runtimeconfig.json
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/bin/Debug/netcoreapp2.0/simple-jwt-authentication.runtimeconfig.dev.json
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/bin/Debug/netcoreapp2.0/simple-jwt-authentication.dll
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/bin/Debug/netcoreapp2.0/simple-jwt-authentication.pdb
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.csprojResolveAssemblyReference.cache
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.csproj.CoreCompileInputs.cache
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.AssemblyInfoInputs.cache
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.AssemblyInfo.cs
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.dll
+/media/charles/2C0E902B0E8FEC60/projects/simple-jwt-authentication/obj/Debug/netcoreapp2.0/simple-jwt-authentication.pdb
