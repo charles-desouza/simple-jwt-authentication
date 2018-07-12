@@ -1,0 +1,5 @@
+{
+  "Issuer" : "some_issuer",
+  "Audience" : "some_audience",
+  "SigningKey" : "abc123defg123"
+}
